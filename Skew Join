@@ -1,0 +1,4 @@
+spark.sql.adaptive.enable = true/false
+spark.sql.adaptive.skewjoin.enable = true
+spark.sql.adaptive.skewjoin.SkewedPartitionFactor = 5
+spark.sql.adaptive.skewjoin.skewedPartitionThresoldBytes = 256
