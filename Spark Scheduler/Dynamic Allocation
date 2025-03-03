@@ -1,4 +1,0 @@
-spark.dynamicAllocation.enable = True
-spark.dynamicAllocation.shuffleTracking.enable = true
-spark.dynamicAllocation.executionIdleTimeout = 60 s
-spark.dynamicAllocation.schedulerBacklogTimeout = 1s
