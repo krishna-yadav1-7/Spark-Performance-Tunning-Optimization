@@ -1,0 +1,7 @@
+
+spark.sql.shuffle.partition = n
+spark.sql.adaptive.enable = True/False
+spark.sql.adaptive.coaleascePartions.initialPartionNum = 100
+spark.sql.adaptive.coaleascePartition.minPartition = n
+spark.sql.adaptive.advisoryPartitionSizeInBytes 
+spark.sql.adaptive.coalescePartitons.enabled
