@@ -1,0 +1,5 @@
+1) Why do we need broadcast Hash Join
+2) How does Broadcast Works
+3) Differnce b/w Broadcast Hash Join & Shuffle Hash Join
+4) How can we changfe broadcaste size of table
+5) When Broadcast Table is not Good or it will fail.
