@@ -1,4 +1,10 @@
 1) What are the join Stratergy in Spark
+ANS: 1) Shuffle Short Merge Join
+     2) Shuffle Hash Join
+     3) BroadCast Hash Join
+     4) Catesion Join 
+     5) Broadcaste Nested Loop Join 
+
 2) Why join is Expensive / Wide Dependency transformation
 3) Difference b/w Shuffle Hash Join and  Shuffle Short-Merged Join?
 4) When do we need Broadcaste Join
