@@ -1,0 +1,4 @@
+1) What are the join Stratergy in Spark
+2) Why join is Expensive / Wide Dependency transformation
+3) Difference b/w Shuffle Hash Join and  Shuffle Short-Merged Join?
+4) When do we need Broadcaste Join
